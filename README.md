@@ -1,8 +1,8 @@
 # aeroCRS_TASK
 
-*** Build with node.js ***
+## Build with node.js
 
-** how to install **
+## how to install:
 
 1) CD into project folder
 2) npm install
